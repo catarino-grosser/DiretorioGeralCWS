@@ -1,0 +1,13 @@
+Fonts used in this design:
+
+Font: Alegreya
+Author: Juan Pablo del Peral
+Url: http://www.fontsquirrel.com/fonts/alegreya
+
+Font: Alegreya Sans
+Author: Juan Pablo del Peral
+Url: http://www.fontsquirrel.com/fonts/alegreya-sans
+
+Font: Cunia
+Author: Alejo Bergmann
+Url: https://www.fontsquirrel.com/fonts/cunia

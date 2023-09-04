@@ -6,11 +6,13 @@ OBJETIVO
     usando um Slide Show com 3 imagens para rodar automaticamente como banner de capa do site.
 
     Adicionando-
-        logo marca ou nome do site com link para a pagina inicial ou top de pagina.
-        link para se seção Sobre.
-        link para a seção Planos.
-        link para a seção Contato.
-        1 Slide show com 3 imagens da marca, produto pu serviço.
+        barra de navegação fixa
+        logo marca ou nome do site com link para a pagina inicial ou topo de pagina.
+        link para as seções:
+            Sobre.
+            Planos.
+            Contato.
+        1 Slide show com 3 imagens da marca, produto ou serviço.
         1 Titulo para seção Sobre.
         1 texto de apresentação do produto, marca ou serviço.
         6 Itens de apresentação de produtos ou serviços.
@@ -19,9 +21,11 @@ OBJETIVO
             Prata
             Ouro
         Seção contatos
-            .
-            .
-            .
+            formulario de cadastro de cliente
+                input nome
+                input email            
         Rodapé
-
-end
+            links redes sociais
+            link w3c
+            link documentação do projeto
+END
